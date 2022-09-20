@@ -1,4 +1,4 @@
-package org.example.Functional_java.Collections.Transforming_a_List;
+package org.example.Functional_java.Collections.Transforming_a_List_2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

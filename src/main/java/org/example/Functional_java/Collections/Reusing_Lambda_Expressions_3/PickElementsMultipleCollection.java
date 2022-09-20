@@ -1,4 +1,4 @@
-package org.example.Functional_java.Collections.Reusing_Lambda_Expressions;
+package org.example.Functional_java.Collections.Reusing_Lambda_Expressions_3;
 
 import java.util.Arrays;
 import java.util.List;

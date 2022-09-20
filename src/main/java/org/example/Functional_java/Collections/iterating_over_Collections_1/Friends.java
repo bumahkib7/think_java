@@ -1,4 +1,4 @@
-package org.example.Functional_java.Collections.iterating_over_Collections;
+package org.example.Functional_java.Collections.iterating_over_Collections_1;
 
 import java.util.Arrays;
 import java.util.List;

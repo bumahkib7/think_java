@@ -1,4 +1,4 @@
-package org.example;
+package org.example.NON;
 
 public class NewLine {
     public static void newLine(){
