@@ -1,9 +1,7 @@
 package org.example.Functional_java.Collections.Finding_elements;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class PickElements {
 
@@ -16,7 +14,7 @@ public class PickElements {
 
 
         final List<String> containsU = friends2.stream()
-                .filter( name -> name.contains("u")).toList();
+                .filter(name -> name.contains("u")).toList();
         System.out.println("All names that start with \"u\" are: " + containsU);
     }
 }
